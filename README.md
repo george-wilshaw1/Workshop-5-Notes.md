@@ -13,13 +13,13 @@ How do you create from a view controller without a button?
 ctrl click from the main view controller
 
 What is the method to perfrom a segue called and what argument does it take?
-
+performSegue(with identifier
 
 What method is called immediatly before a segue is performed?
-
+prepare(for segue
 
 How do you assign a new view controller class?
-
+Identity inspector and change the name to a new file called DetailViewController
 
 How do you pass data between two view controllers? (this will need a few sentances to explain)
 
